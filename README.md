@@ -1,6 +1,1 @@
-- 👋 Hi, I’m @Rafael
-
-<!---
-RafCodes18/RafCodes18 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Defining the lookism of web.
