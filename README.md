@@ -1,1 +1,1 @@
-Selft Taught Software Developer, with an associates degree from FVTC.
+Selft Taught Software Developer, with an associates degree from Fox Valley Technical College.
